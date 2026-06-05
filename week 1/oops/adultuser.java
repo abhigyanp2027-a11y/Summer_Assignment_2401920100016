@@ -1,4 +1,5 @@
- class AdultUsers implements LibraryUser {
+// Adult user
+class AdultUsers implements LibraryUser {
     int age;
     String bookType;
     AdultUsers(int age, String bookType) {
