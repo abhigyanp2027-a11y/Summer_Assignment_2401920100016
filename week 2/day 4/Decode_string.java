@@ -1,5 +1,3 @@
-package Week_2.Day_4;
-
 class Solution {
     public String decodeString(String s) {
         Stack<Character> st = new Stack<>();
